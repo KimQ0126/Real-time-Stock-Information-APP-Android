@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_data">
+        <item>Default</item>
+        <item>Symbol</item>
+        <item>Price</item>
+        <item>Change</item>
+    </string-array>
+    <string-array name="order">
+        <item>Descending</item>
+        <item>Ascending</item>
+    </string-array>
+    <string-array name="charts">
+        <item>Price</item>
+        <item>SMA</item>
+        <item>EMA</item>
+        <item>RSI</item>
+        <item>ADX</item>
+        <item>CGI</item>
+        <item>STOCH</item>
+        <item>MACD</item>
+        <item>BBANDS</item>
+    </string-array>
+</resources>

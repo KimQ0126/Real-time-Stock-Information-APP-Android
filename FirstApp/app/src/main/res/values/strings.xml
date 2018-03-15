@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stock Search</string>
+    <string name="title">Stock Market Search</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="quote_button">GET QUOTE</string>
+    <string name="fav_title">Favorties</string>
+    <string name="auto_ref">AutoRefresh</string>
+    <string name="sort">Sort By</string>
+    <string name="order">Order</string>
+    <string name="header_title">Stock Details</string>
+    <string name="q_btn">Get Qoute</string>
+    <string name="facebook_app_id">1924201094573632</string>
+    <string name="fb_login_protocol_scheme">fb1924201094573632</string>
+</resources>
